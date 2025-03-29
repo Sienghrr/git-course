@@ -1,4 +1,4 @@
 
 public static void display(){
-  return n+m;
-};
+	return n-m;
+}
